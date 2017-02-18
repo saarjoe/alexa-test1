@@ -1,0 +1,15 @@
+GetNewFactIntent meinem Spruch
+GetNewFactIntent einen Spruch
+GetNewFactIntent ein Spruch von Joe
+GetNewFactIntent sage mir einen Spruch
+GetNewFactIntent sag mir einen Spruch
+GetNewFactIntent gib mir einen Spruch
+GetNewFactIntent gib mir einen Spruch von Joe
+GetNewFactIntent erzähle mir Joes Spruch
+GetNewFactIntent erzähl mir Joes Spruch
+GetNewFactIntent sage mir etwas von Joe
+GetNewFactIntent sag mir etwas von JOe
+GetNewFactIntent gebe mir einen Spruch
+GetNewFactIntent gebe mir einen Spruch von Joe
+GetNewFactIntent sage mir etwas
+GetNewFactIntent erzähle mir etwas
