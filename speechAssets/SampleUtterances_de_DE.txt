@@ -8,7 +8,7 @@ GetNewFactIntent gib mir einen Spruch von Joe
 GetNewFactIntent erzähle mir Joes Spruch
 GetNewFactIntent erzähl mir Joes Spruch
 GetNewFactIntent sage mir etwas von Joe
-GetNewFactIntent sag mir etwas von JOe
+GetNewFactIntent sag mir etwas von Joe
 GetNewFactIntent gebe mir einen Spruch
 GetNewFactIntent gebe mir einen Spruch von Joe
 GetNewFactIntent sage mir etwas
